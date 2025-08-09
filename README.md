@@ -1,20 +1,5 @@
-# React Template (Vite)
+# Memory Game
 
-## Quick start
-1. Click **Use this template** → **Create a new repository**
-2. Clone your new repo:
+A simple memory game using PokeAPI.
 
-```bash
-git clone repo_name
-```
-
-```bash
-cd repo_name
-```
-
-```bash
-npm install
-npm run update:latest
-npm run dev:open
-```
-
+![Screenshot](screenshot.png)

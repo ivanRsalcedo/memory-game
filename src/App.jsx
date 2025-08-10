@@ -28,6 +28,7 @@ function App() {
       setScore(prevScore => {
         const updatedScore = prevScore + 1;
         if (updatedScore === 9) {
+          setBest(updatedScore);
           resetGame();
           alert('You won!');
         }
